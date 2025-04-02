@@ -4,7 +4,7 @@ Plugin Name: LiteSpeed Cache Plugin Addon
 Plugin URI:  https://github.com/mchoquette1984/lscwp-addon/blob/main/lscwp-addon.zip
 Description: This plugin will add option to enabling purge button for non-admin user.
 Author:      Martin C-Scott
-Version:     1.0
+Version:     1.1
 License:     GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 */
