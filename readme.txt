@@ -14,5 +14,5 @@ This plugin is an addon plugin to LiteSpeed Cache
 
 
 == Changelog ==
-=1.0 - Dec 10 2020 =
+=1.0 - Apr 01 2025 =
 * Initial release.
